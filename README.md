@@ -1,0 +1,2 @@
+# Panda-Analysis
+With Panda’s analysis we aim to gain public insights on a particular keyword searched by the user such as a company, movie, celebrity, trend, political issue, etc. It has an overall analysis of everything on the internet regarding the keyword plus a separate analysis of twitter and news. It shows sentiments of people whether it is positive, negative or neutral, entities, tweets and their emotion in relevance to that keyword. 
